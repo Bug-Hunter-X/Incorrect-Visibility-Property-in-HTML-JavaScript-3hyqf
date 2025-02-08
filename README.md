@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake when attempting to control the visibility of an HTML element using JavaScript.  The code in 'bug.html' incorrectly uses the 'visibility' property, which is not the correct way to show/hide elements. The solution in 'bugSolution.html' demonstrates the correct approach. 
